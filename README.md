@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Yt6uHGl.png" alt="DDoS attack logo"/>
 </p>
 
-<h1>Use the NIST CSF to respond to a security incident</h1>
+<h1>Use the NIST Cybersecurity Framework to respond to a security incident</h1>
 In this activity, 
 
 
