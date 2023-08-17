@@ -29,4 +29,4 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 <h2>Incident report</h2>
 
 <img src="https://i.imgur.com/A7USt2z.png" alt="report1"/>
-<img src="https://i.imgur.com/aAgb8VT.png" alt="report2"/>
+<img src="https://i.imgur.com/izmsoJ9.png" alt="report2"/>
